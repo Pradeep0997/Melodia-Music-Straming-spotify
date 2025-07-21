@@ -48,9 +48,8 @@ Integrated the audio streaming feature.
 Structured the project for scalability.
 
 📂 Folder Structure
-bash
-Copy
-Edit
+
+
 Melodia/
  ├── client/        # React frontend
  ├── server/        # Node.js + Express backend
@@ -60,27 +59,20 @@ Melodia/
  ├── .env.example   # Example environment variables
  ├── README.md
 ⚙️ Setup Notes
-Make sure to create a .env file in the server folder with your MongoDB connection URI and JWT secret.
 
-Example:
 
-ini
-Copy
-Edit
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret
-📬 Contact
-[Your Name] – [Your Email]
-GitHub: Pradeep0997
 ```
 ##Screenshots
+
+
 ![Screenshot from 2025-02-28 14-53-18](https://github.com/user-attachments/assets/c3df4407-0019-440f-87d3-f475e79f2303)
 ![Screenshot from 2025-02-28 14-53-29](https://github.com/user-attachments/assets/f0fed30a-7d76-481d-886c-88cdc78fddb5)
 ![Screenshot from 2025-02-28 14-54-49](https://github.com/user-attachments/assets/8f441b38-4bb3-457f-933c-1cc2aeca38ca)
 ![Screenshot from 2025-02-28 14-54-58](https://github.com/user-attachments/assets/4275bf67-8476-4e16-a5d5-9dfed1e93166)
 ![Screenshot from 2025-02-28 14-55-13](https://github.com/user-attachments/assets/6aeb8449-8601-4ccf-84d5-4c587530d432)
 
- My Contribution
+ ##My Contribution
+ 
 I built this project from scratch as a solo developer:
 
 Designed the backend API with Express and MongoDB.
@@ -92,18 +84,24 @@ Built the entire React frontend with reusable components.
 Integrated the audio streaming feature.
 
 Structured the project for scalability.
+---
 
 
 
-Make sure to create a .env file in the server folder with your MongoDB connection URI and JWT secret.
+##Make sure to create a .env file in the server folder with your MongoDB connection URI and JWT secret.
 
 Example:
 
 MONGO_URI=your_mongodb_uri
+
+
 JWT_SECRET=your_secret
 
 
 📬 Contact
-[Your Name] – [Your Email]
+
+Settipalle Pradeep Reddy
+
+
 GitHub: Pradeep0997
 
